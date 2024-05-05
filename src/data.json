@@ -1,0 +1,109 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "uuid": "1a231292-db9f-4f52-8ea5-86c1a6ceb578",
+            "productName": "Case",
+            "price": 10.0,
+            "quantity": null,
+            "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1696867682-samsung-galaxy-wallet-cases-015-jpg-652420356f4d7.jpg?crop=0.642xw:0.855xh;0.150xw,0.104xh&resize=980:*",
+            "description": "Green Lion IMD Matte Case For iPhone 15 Pro Max - White",
+            "createdAt": "2024-04-30T21:04:58.832944",
+            "updatedAt": null,
+            "status": "DELETED",
+            "type": "Phone"
+        },
+        {
+            "id": 2,
+            "uuid": "1a231292-db9f-4f52-8ea5-86c1a6ceb578",
+            "productName": "Case",
+            "price": 20.0,
+            "quantity": null,
+            "image": "https://www.cnet.com/a/img/resize/9e05d591de48b82be0b958ba5d251fcf3bb193ad/hub/2021/11/02/d1be051d-8b18-49fc-8790-6bf52cb0b615/spigen-thin-fit-galaxy-z-flip-3.jpg?auto=webp&fit=crop&height=576&width=768",
+            "description": "Green Lion Magnetic Warrior Case iPhone 14 Pro - Red",
+            "createdAt": "2024-04-30T21:04:58.832944",
+            "updatedAt": null,
+            "status": "DELETED",
+            "type": "Phone"
+        },
+        {
+            "id": 3,
+            "uuid": "1a231292-db9f-4f52-8ea5-86c1a6ceb578",
+            "productName": "PowerBanks",
+            "price": 30.0,
+            "quantity": null,
+            "image": "https://image-us.samsung.com/us/smartphones/galaxy-s20/accessories/gallery/EB-P3300/EB-P3300_001_Front_Dark_Gray.png?$product-details-jpg$",
+            "description": "Green Lion 3 in 1 Transparent Magsafe Power Bank 5000mAh PD 20W - Purple",
+            "createdAt": "2024-04-30T21:04:58.832944",
+            "updatedAt": null,
+            "status": "DELETED",
+            "type": "Phone"
+        },
+        {
+            "id": 4,
+            "uuid": "1a231292-db9f-4f52-8ea5-86c1a6ceb578",
+            "productName": "PowerBanks",
+            "price": 100.0,
+            "quantity": null,
+            "image": "https://image.coolblue.nl/600x315/products/954480",
+            "description": "Powerology 8 in 1 Wireless Power Bank Station 10000mAh with Built-In Cable ( Lightning & Type-C ) PD 20W",
+            "createdAt": "2024-04-30T21:04:58.832944",
+            "updatedAt": null,
+            "status": "DELETED",
+            "type": "Phone"
+        },
+        {
+            "id": 4,
+            "uuid": "1a231292-db9f-4f52-8ea5-86c1a6ceb578",
+            "productName": "PowerBanks",
+            "price": 100.0,
+            "quantity": null,
+            "image": "https://www.yankodesign.com/images/design_news/2021/10/samsung-go-wireless-power-bank-magnetically-attaches-to-android-phones/Samsung-Go-Wireless-Power-Bank_-2.jpg",
+            "description": "Powerology 8 in 1 Wireless Power Bank Station 10000mAh with Built-In Cable ( Lightning & Type-C ) PD 20W",
+            "createdAt": "2024-04-30T21:04:58.832944",
+            "updatedAt": null,
+            "status": "DELETED",
+            "type": "Phone"
+        },
+        {
+            "id": 5,
+            "uuid": "1a231292-db9f-4f52-8ea5-86c1a6ceb578",
+            "productName": "Speaker",
+            "price": 100.0,
+            "quantity": null,
+            "image": "https://m.media-amazon.com/images/I/81b1vgAABmL._AC_SL1500_.jpg",
+            "description": "Porodo Gaming Stereo Gaming Speakers - Black",
+            "createdAt": "2024-04-30T21:04:58.832944",
+            "updatedAt": null,
+            "status": "DELETED",
+            "type": "Computer"
+        },
+        {
+            "id": 6,
+            "uuid": "1a231292-db9f-4f52-8ea5-86c1a6ceb578",
+            "productName": "Speaker",
+            "price": 130.0,
+            "quantity": null,
+            "image": "data:image/jpeg;base64,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",
+            "description": "Porodo Stereo Gaming Speakers - BLACK",
+            "createdAt": "2024-04-30T21:04:58.832944",
+            "updatedAt": null,
+            "status": "DELETED",
+            "type": "Computer"
+        },
+        {
+            "id": 7,
+            "uuid": "1a231292-db9f-4f52-8ea5-86c1a6ceb578",
+            "productName": "SSD Drive",
+            "price": 70.0,
+            "quantity": null,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzQTo-aMLvXcYTgy7RZa0x0JhKlGGB5ehF-qh--05zzA&s",
+            "description": "A hand sanitizer to keep your hands clean and germ-free.",
+            "createdAt": "2024-04-30T21:04:58.832944",
+            "updatedAt": null,
+            "status": "DELETED",
+            "type": "Computer"
+        }
+      
+    ]
+}
